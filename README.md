@@ -181,4 +181,4 @@ src/
 
 ### Créditos
 
-Desenvolvido com ❤️ utilizando React, Vite e Stripe.
+Desenvolvido por JacsonPedrotti utilizando React, Vite e Stripe com mentoria do Mestre Rodolfo Mori no curso de desenvolvimento Full-Stack Pro da plataforma DevClub.
